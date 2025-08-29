@@ -1,0 +1,72 @@
+body{
+    background-color: #f2f4f7;
+}
+.fb-info img{
+        height: 10vh;
+        background: transparent;
+        position: absolute;
+        margin-left: 24vw;
+}
+.fb-info p{
+    background: transparent;
+    position: absolute;
+    font-size: 30px;
+    margin-top: 9vh;
+    margin-left: 25.5%;
+
+}
+.container-wrapper{
+   background-color: white;
+   margin-left: 55%;
+   margin-right: 20%;
+   margin-top: 15%;
+   text-align: center;
+   padding-bottom: 4vh;
+   border-radius: 10px;
+}
+
+.container-wrapper input{
+     margin-top:20px;
+     width: 23vw;
+     height: 30px;
+}
+.btn a{
+     text-decoration: none;
+     color: white;
+     
+}
+.btn{
+    margin-top: 30px;
+    display: inline-block;
+    background-color: blue;
+    padding: 2vh 11vw 2vh 11vw;
+    border-radius: 10px;
+}
+
+.forget-link a{
+    text-decoration: none;
+    color: blue;
+}
+.forget-link{
+    margin-top: 15px;
+}
+.hr{
+    border: 1px solid rgb(116, 96, 96);
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.Create-account-button a{
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    margin-top: 4%;
+    color: white;
+}
+.Create-account-button{
+    background-color: #43b72a;
+    margin: 5% 30% 0% 30%;
+    padding: 2vh 0 2vh 0;
+    border-radius: 10px;
+}

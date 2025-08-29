@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    display: flex;
+    padding-top: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.container table, th ,td{
+    
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    
+    
+}
+.tbl{
+    width: 50%;
+    margin-left: 20%;
+}
+.button a {
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+
+
